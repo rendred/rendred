@@ -1,10 +1,13 @@
 ### Hi there 👋
+
 <p align="center">
-  <img src="https://substackcdn.com/image/fetch/w_112,h_112,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3dbedeaf-e893-4c28-b4d5-14e9338ef278_1280x1280.png" width="133" title="Tech Headhunter">
+  <img src="https://embed.filekitcdn.com/e/kFJFkYhQgkLVqki9qxuDPX/qSPkdBWmPred5zm8nMx5R3" width="210" title="Tech Headhunter">
 </p>
 
 - 🔭 I’m currently offline [writing](https://medium.com/@lisereiner) and launching [my project 'Clear Minded' for busy people](https://lisereiner.substack.com/)
 - ✍️ I occasionally take on [headhunting assignments through my LinkedIn](https://www.linkedin.com/in/tech-headhunter/) for clients in [Robotics, Gaming, Data Science and Cybersecurity](https://www.linkedin.com/in/tech-headhunter/).
+- <img src="https://m.media-amazon.com/images/I/41HeL2cy9LL.png" width="25"/>If you are seeking for inmediate work, you'll [find a list of the latest job posts here](https://www.google.com/search?q=(Artificial+Intelligence+OR+%22AI%22+OR+Machine+Learning+OR+%22ML%22+OR+Robotics+OR+Automation+OR+Aviation+OR+Aerospace+OR+%22Game+Development%22+OR+%22Gaming+Industry%22+OR+%22Data+Science%22+OR+%22Data+Scientist%22+OR+Cybersecurity+OR+%22Information+Security%22+OR+%22Blockchain%22+OR+%22Web3%22+OR+Cryptography+OR+%22Decentralized+Applications%22)+AND+(Job+OR+Position+OR+Opening+OR+Vacancy)+site:boards.greenhouse.io&sca_esv=210ddee6c841c9b3&source=lnt&tbs=qdr:w)
+
 - 📫 Drop me an email or DM to chat!
 - 🥅 2025 Goals: More offline projects
 
@@ -15,7 +18,9 @@
 
 #### 🌱 Upcoming projects
 
+- [Offline Digital Detox Retreat in Barcelona](https://lisereiner.kit.com/14fc39979b)
 - [YouTube](https://www.youtube.com/@LiseReiner)
+
 
 #### 🌱 Socials
 [<img align="left" alt="lisereiner | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
