@@ -36,3 +36,6 @@
 [linkedin]: https://www.linkedin.com/in/tech-headhunter/
 [instagram]: https://instagram.com/lise.reiner
 [youtube]: https://www.youtube.com/@LiseReiner
+
+---
+![](https://komarev.com/ghpvc/?username=rendred&color=f5eef8&style=for-the-badge)
